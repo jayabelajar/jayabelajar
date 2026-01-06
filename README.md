@@ -36,9 +36,11 @@ Experienced in developing end-to-end systems, from backend logic to frontend int
 - GitHub: https://github.com/jayabelajar
 
 ## ❤️ Support Me
-If you like my work, consider supporting me.
+If you find my work helpful, consider supporting me through one of the platforms below.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-red)](https://github.com/sponsors/jayabelajar)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red)](https://github.com/sponsors/jayabelajar)
+[![Saweria](https://img.shields.io/badge/Saweria-Support-orange)](https://saweria.co/jayabelajar)
+[![Trakteer](https://img.shields.io/badge/Trakteer-Support-ff4d4d)](https://trakteer.id/jayabelajar)
 
 ---
 ⭐ Always learning, building, and improving.
