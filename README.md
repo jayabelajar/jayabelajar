@@ -32,4 +32,4 @@ Experienced in developing end-to-end systems, from backend logic to frontend int
 - GitHub: https://github.com/jayabelajar
 
 ---
-Building software with clarity and structure.
+⭐ Always learning, building, and improving.
