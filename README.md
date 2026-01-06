@@ -1,37 +1,31 @@
-<div align="center">
+# Hi, I'm Jaya 👋
 
-# 👋 Hi, I'm Jaya  
-### 💻 IT Enthusiast
+Software Engineering student with an interest in backend development, web systems, and clean code practices.  
+I enjoy building practical applications and continuously improving my technical skills.
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/username)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/username)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:yourmail@gmail.com)
+## 🚀 Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-</div>
+## 📌 Focus Areas
+- Backend Development
+- Web Application Architecture
+- REST API Development
+- Database Design
 
----
+## 🌱 Currently Learning
+- System Design Basics
+- Clean Architecture
+- Secure Authentication Flow
 
-## 🧠 About Me  
-Just learner.  
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayabelajar&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayabelajar&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
-## 📫 Let’s Connect!
-💼 [LinkedIn](https://linkedin.com/in/jykusuma)  
-📧 [jayakusuma.dev@gmail.com](mailto:jayakusuma.dev@@gmail.com)  
-📸 [Instagram](https://instagram.com/jayadev.id)  
+## 📫 Connect
+- GitHub: https://github.com/jayabelajar
 
 ---
-
-> _"Code is art when it solves real human problems."_  
-> — Jaya
-
----
+⭐ Always learning, building, and improving.
