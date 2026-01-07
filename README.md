@@ -25,7 +25,7 @@ Experienced in developing end-to-end systems, from backend logic to frontend int
 - Full-Stack Web Development
 - RESTful API Design
 - Database Modeling
-- Clean Architecture & MVC
+- Clean Architecture
 
 ## 🌱 Currently Improving
 - System Design fundamentals
